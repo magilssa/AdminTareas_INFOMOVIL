@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AdminTareas_INFOMOVIL</string>
+    <string name="mensaje1">All tasks completed</string>
+    <string name="mensaje2">Nice work!</string>
 </resources>
